@@ -1,2 +1,1 @@
-# fernandoriii.github.io
-Homepage of Fernando Reyes III
+[Homepage of Fernando Reyes III](https://fernandoriii.github.io)
